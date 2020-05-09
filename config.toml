@@ -1,7 +1,7 @@
 languageCode = "en-us"
 title = "Massively"
-baseURL = "https://hugo-theme-massively.netlify.com/"
-theme = "hugo-theme-massively"
+baseURL = "https://hardcore-meitner-da4630.netlify.app/"
+theme = "massively"
 googleanalytics = ""
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
