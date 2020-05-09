@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hugo-theme-massively.netlify.com/</loc>
+    <loc>https://hardcore-meitner-da4630.netlify.app/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hugo-theme-massively.netlify.com/es/"
+                href="https://hardcore-meitner-da4630.netlify.app/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-theme-massively.netlify.com/"
+                href="https://hardcore-meitner-da4630.netlify.app/"
                 />
   </url>
   
